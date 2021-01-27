@@ -49,6 +49,6 @@ Check the game structure in this `Trello`  [board](https://trello.com/b/zTBYt0qg
 
 If cloning this repo or working on the TraderDOS implementation, please feel free to add aditional TraderDOS features like being able to make a deposit at the begining or the option to buy more than one derivative at the same time.
 
-The game could be more interactive if some stories are add, for example the introduction of characters as `Jamie Dimond` The Big Corporate Banker who manipulates the prices on a daily basis, OR `Janeth Yellen` who has the power of increse or decrese interest rates at will, pushing up or down prices in seconds.
+The game could be more interactive if some stories are added, for example the introduction of characters as `Jamie Dimond` The Big Corporate Banker who manipulates the prices on a daily basis, OR `Janeth Yellen` who has the power of increse or decrese interest rates at will, pushing up or down prices in seconds.
 
 Enjoy coding.
